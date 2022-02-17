@@ -1,3 +1,7 @@
+# Simple Feedback App
+
+Completed as part of the "React Front to Back 2022" course on Udemy. [Link to course](https://www.udemy.com/course/react-front-to-back-2022/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
